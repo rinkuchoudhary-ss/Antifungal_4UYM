@@ -1,0 +1,14 @@
+--> Results for readHBmap.py (Author: Ricardo O. S Soares)
+--> Found 26 valid hydrogen bond pairs with occupancy of more than 20.0%
+--> The hydrogen bond map (hbmap.xpm) has 10001 frames
+
+Pair ID  |        donor-acceptor        |   Atom Number   | Occupancy (%) | Pair ID  
+
+    1        50LYS( N ) - 461HIS(ND1)          1 -  6522        39.1          1
+    2        50LYS( N ) - 136TYR(OH )          1 -  1406        79.7          2
+    3        50LYS( N ) - 455PRO( O )          1 -  6446        83.4          3
+    4        50LYS( N ) - 520LIG(O2A)          1 -  7516        83.5          4
+    5        50LYS( N ) - 520LIG(O1A)          1 -  7508        27.0          5
+    6        50LYS( N ) - 520LIG(O1A)          1 -  7508        91.9          6
+    7        50LYS( N ) - 520LIG(O2D)          1 -  7517        48.5          7
+    8        50LYS( N ) - 520LIG( O )          1 -  7483        66.5          8
